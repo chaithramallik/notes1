@@ -1,3 +1,11 @@
-test
-vbnm
+It gives the following info
+Commit id
+Author and mail id
+Date 
+Head pointer : it is used to identify the latest Commit point all the time 
+Above information is stored in the git directory (.git)
+ 
 
+Whenever the list of the commit id’s are more we should come out of the screen “press q”
+
+ 
